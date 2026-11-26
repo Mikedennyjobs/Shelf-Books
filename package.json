@@ -1,0 +1,19 @@
+{
+  "name": "shelf-voice-web",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "jszip": "^3.10.1",
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "unpdf": "^0.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5.5.0"
+  }
+}
